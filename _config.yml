@@ -35,4 +35,3 @@ exclude:
 include: [_pages]
 
 paginate_path: "/posts/page/:num/"
-permalink: posts/:slug
