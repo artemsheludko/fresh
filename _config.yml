@@ -34,5 +34,4 @@ exclude:
   - Gemfile.lock
 include: [_pages]
 
-paginate_path: "/fresh/page:num/"
-permalink: fresh/:slug
+paginate_path: /fresh/page:num/
