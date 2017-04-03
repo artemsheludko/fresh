@@ -34,4 +34,4 @@ exclude:
   - Gemfile.lock
 include: [_pages]
 
-paginate_path: "/page:num/"
+paginate_path: "fresh/page:num/"
