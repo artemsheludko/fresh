@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
 baseurl: "/fresh" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "artemsheludko.pw" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
 facebook: #Add your Facebook
