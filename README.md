@@ -4,7 +4,6 @@ Fresh is a free blog template for Jekyll
 ![](assets/img/fresh.jpg)
 
 # Demo
-Here's a GIF review the Fresh theme.
 
 ![GIF](assets/img/fresh.gif)
 
