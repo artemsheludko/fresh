@@ -33,3 +33,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
 include: [_pages]
+
+paginate_path: "/posts/page/:num/"
