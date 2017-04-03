@@ -35,3 +35,4 @@ exclude:
 include: [_pages]
 
 paginate_path: "/fresh/page:num/"
+permalink: fresh/:slug
