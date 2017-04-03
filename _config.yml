@@ -23,7 +23,6 @@ discus-identifier: # Add your Disqus identifier
 
 # Paginate
 paginate: 5
-fresh/page:num/
 
 # Build settings
 markdown: kramdown
