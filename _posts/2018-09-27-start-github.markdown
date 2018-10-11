@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "start github!"
 date:   2018-09-27 21:32:40 +0200
-img:
+img: 
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
 categories: github diary
 ---
