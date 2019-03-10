@@ -10,9 +10,9 @@ layout: default
       <div class="post-date"><span>{{post.date | date: '%Y, %b %d'}}&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
     </header>
     {% if post.img %}
+       <p>{{post.description}} <a class="more" href="{{post.url | prepend: site.baseurl}}">(Read more...)</a></p>
        <img class="post-image" src={{ "/assets/img/" | prepend: site.baseurl | append: post.img }} alt="{{post.title}}">
     {% endif %}
-    <p>{{post.description}} <a class="more" href="{{post.url | prepend: site.baseurl}}">(Read more...)</a></p>
   </div>
 </article>
 {% endfor %}
