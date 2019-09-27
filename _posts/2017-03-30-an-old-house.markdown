@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "김바다"
+title:  "ㅎㅎ"
 date:   2017-03-30 00:00:00
-img: house.jpg
-바보
+img: 
 ---
 
 정성스럽게 놀려주겠다.

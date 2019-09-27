@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  바보
+title:  "바보"
 date:   2017-03-29 00:00:00 +0200
-김바다
 ---
 
 ## Headings

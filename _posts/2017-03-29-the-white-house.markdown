@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  Ocean
+title:  "Ocean"
 img: wooden_house.jpg
 date:   2017-03-29 00:00:00 +0200
-바보
 ---
 
 Mauris rutrum, felis vestibulum sodales posuere, erat odio volutpat ex, id interdum mi turpis ac eros. Etiam et mattis quam, non sagittis mauris. Pellentesque eleifend turpis et sem lobortis dignissim. Vivamus sagittis maximus ultricies. Ut sed nisi nisl. Sed sed purus sit amet mi accumsan dignissim ut quis augue. Nullam ut lacus nec odio aliquam tempor. Praesent nulla sapien, congue bibendum tristique luctus, mattis nec augue.

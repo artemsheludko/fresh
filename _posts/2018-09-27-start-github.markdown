@@ -3,7 +3,7 @@ layout: post
 title:  "start github!"
 date:   2018-09-27 21:32:40 +0200
 img: 
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes.
+description: 깃허브 개설 첫 날 
 categories: github diary
 ---
 오늘 github를 시작하였다.
